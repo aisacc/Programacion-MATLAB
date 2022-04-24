@@ -1,5 +1,7 @@
 **** Los archivos auxiliares .csv fueron obtenidos de Kaggle. A continuación se adjunta la URL. ****
 
+-- Modificado del .csv original.
 ** Tema13_Auxiliar_BankChurners: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
+-- Copia del .csv original.
 ** Tema13_Auxiliar_EcommerceCustomers: https://www.kaggle.com/datasets/srolka/ecommerce-customers
