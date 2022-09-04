@@ -2,10 +2,17 @@
 
 ## Temas
 **Tema 00.** Introducción al Live Editor
+1. Antes de empezar
+2. Funcionamiento del Live Editor
 
 **Tema 01.** Conceptos generales
+1. Variables y palabras reservadas
+2. Comentarios, funciones generales y despliegue de información
+3. Recomendaciones y tips para trabajar con MATLAB
 
 **Tema 02.** Números en MATLAB
+1. Tipos de números en MATLAB
+2. Operaciones ariméticas
 
 **Tema 03.** Valores lógicos en MATLAB
 
