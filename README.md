@@ -20,7 +20,7 @@
 
 **Tema 05.** Despliegue de información
 
-**Tema 06.** Obtener ayudan en MATLAB
+**Tema 06.** Obtener ayuda en MATLAB
 
 **Tema 07.** Estructuras de datos - Matrices
 
