@@ -1,4 +1,4 @@
-# Fundamentos de MATLAB
+# Programación con MATLAB
 
 ## Temas
 **Tema 00.** Introducción al Live Editor
