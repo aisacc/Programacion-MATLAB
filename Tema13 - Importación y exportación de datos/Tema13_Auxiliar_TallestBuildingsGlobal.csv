@@ -1,0 +1,79 @@
+rank,name,height_m,height_ft,year_built,floors_above,floors_below_ground,city,country
+1,Burj Khalifa,828.0,2717,2010,163,1,Dubai,United Arab Emirates
+2,Merdeka 118,678.9,2227,2022,118,5,Kuala Lumpur,Malaysia
+3,Shanghai Tower,632.0,2073,2015,128,5,Shanghai,China
+4,Abraj Al-Bait Clock Tower,601.0,1972,2012,120,3,Mecca,Saudi Arabia
+5,Ping An International Finance Centre,599.1,1966,2017,115,5,Shenzhen,China
+6,Lotte World Tower,554.5,1819,2017,123,6,Seoul,South Korea
+7,One World Trade Center,541.3,1776,2014,94,5,New York City,United States
+8,Guangzhou CTF Finance Centre,530.0,1739,2016,111,5,Guangzhou,China
+9,Tianjin CTF Finance Centre,530.0,1739,2019,97,4,Tianjin,China
+10,China Zun,527.7,1731,2018,109,8,Beijing,China
+11,Taipei 101,508.0,1667,2004,101,5,Taipei,Taiwan
+12,Shanghai World Financial Center,492.0,1614,2008,101,3,Shanghai,China
+13,International Commerce Centre,484.0,1588,2010,108,4,Hong Kong,China
+14,Wuhan Greenland Center,475.6,1560,2022,97,,Wuhan,China
+15,Central Park Tower,472.4,1550,2020,98,4,New York City,United States
+16,Lakhta Center,462.0,1516,2019,87,3,Saint Petersburg,Russia
+17,Landmark 81,461.2,1513,2018,81,3,Ho Chi Minh City,Vietnam
+18,Changsha IFS Tower T1,452.1,1483,2018,94,5,Changsha,China
+19,Petronas Tower 1,451.9,1483,1998,88,5,Kuala Lumpur,Malaysia
+20,Petronas Tower 2,451.9,1483,1998,88,5,Kuala Lumpur,Malaysia
+21,Zifeng Tower,450.0,1476,2010,66,5,Nanjing,China
+22,Suzhou IFS,450.0,1476,2019,95,5,Suzhou,China
+23,The Exchange 106,445.5,1462,2019,95,6,Kuala Lumpur,Malaysia
+24,Wuhan Center,443.1,1454,2019,88,4,Wuhan,China
+25,Willis Tower,442.1,1450,1974,108,3,Chicago,United States
+26,KK100,441.8,1449,2011,98,4,Shenzhen,China
+27,Guangzhou International Finance Center,438.6,1439,2010,103,4,Guangzhou,China
+28,111 West 57th Street,435.3,1428,2021,84,2,New York City,United States
+29,One Vanderbilt,427.0,1401,2020,62,4,New York City,United States
+30,Dongguan International Trade Center 1,426.9,1401,2021,88,,Dongguan,China
+31,432 Park Avenue,425.7,1397,2015,85,3,New York City,United States
+32,Marina 101,425.0,1394,2017,101,6,Dubai,United Arab Emirates
+33,Trump International Hotel and Tower,423.2,1388,2009,98,2,Chicago,United States
+34,Jin Mao Tower,420.5,1380,1999,88,3,Shanghai,China
+35,Princess Tower,413.4,1356,2012,101,6,Dubai,United Arab Emirates
+36,Al Hamra Tower,412.6,1354,2011,80,3,Kuwait City,Kuwait
+37,Two International Finance Centre,412.0,1352,2003,88,6,Hong Kong,China
+38,Haeundae LCT The Sharp Landmark Tower,411.6,1350,2019,101,5,Busan,South Korea
+39,Guangxi China Resources Tower,402.7,1321,2020,86,3,Nanning,China
+40,Guiyang International Financial Center T1,401.0,1316,2020,79,,Guiyang,China
+41,China Resources Headquarters,392.5,1288,2018,68,5,Shenzhen,China
+42,23 Marina,392.4,1287,2012,88,4,Dubai,United Arab Emirates
+43,CITIC Plaza,390.2,1280,1996,80,,Guangzhou,China
+44,Shum Yip Upperhills Tower 1,388.1,1273,2020,80,3,Shenzhen,China
+45,30 Hudson Yards,387.1,1270,2019,73,,New York City,United States
+46,Capital Market Authority Tower,385.0,1263,2021,72,,Riyadh,Saudi Arabia
+47,Iconic Tower,385.0,1263,2022,80,,Cairo,Egypt
+48,Shun Hing Square,384.0,1260,1996,69,3,Shenzhen,China
+49,Eton Place Dalian Tower 1,383.2,1257,2016,80,4,Dalian,China
+50,Logan Century Center 1,381.3,1251,2018,82,4,Nanning,China
+51,Burj Mohammed bin Rashid,381.2,1251,2014,88,5,Abu Dhabi,United Arab Emirates
+52,Empire State Building,381.0,1250,1931,102,1,New York City,United States
+53,Elite Residence,380.5,1248,2012,87,4,Dubai,United Arab Emirates
+54,Riverview Plaza,376.0,1234,2021,73,3,Wuhan,China
+55,Shenzhen Center,375.6,1232,2021,70,,Shenzhen,China
+56,Central Plaza,373.9,1227,1992,78,3,Hong Kong,China
+57,Federation Tower (East Tower),373.7,1226,2016,93,4,Moscow,Russia
+58,Dalian International Trade Center,370.2,1215,2019,86,7,Dalian,China
+59,Address Boulevard,370.0,1214,2017,73,3,Dubai,United Arab Emirates
+60,Haitian Center Tower 2,368.9,1210,2021,73,,Qingdao,China
+61,Golden Eagle Tiandi Tower A,368.1,1208,2019,77,4,Nanjing,China
+62,Bank of China Tower,367.0,1205,1990,72,4,Hong Kong,China
+63,Bank of America Tower,365.8,1200,2009,55,3,New York City,United States
+64,St. Regis Chicago,362.9,1191,2020,92,5,Chicago,United States
+65,Almas Tower,360.0,1181,2008,68,5,Dubai,United Arab Emirates
+66,Hanking Center,358.9,1177,2018,65,5,Shenzhen,China
+67,Greenland Group Suzhou Center,358.0,1175,2022,77,3,Suzhou,China
+68,Gevora Hotel,356.3,1169,2017,75,2,Dubai,United Arab Emirates
+69,JW Marriott Marquis Dubai Tower 1,355.4,1166,2012,82,2,Dubai,United Arab Emirates
+70,JW Marriott Marquis Dubai Tower 2,355.4,1166,2013,82,2,Dubai,United Arab Emirates
+71,Emirates Office Tower,354.6,1163,2000,54,,Dubai,United Arab Emirates
+72,Raffles City Chongqing T3N,354.5,1163,2019,79,3,Chongqing,China
+73,Raffles City Chongqing T4N,354.5,1163,2019,74,3,Chongqing,China
+74,OKO Tower � South Tower,354.2,1162,2015,90,2,Moscow,Russia
+75,The Marina Torch,352.0,1155,2011,86,4,Dubai,United Arab Emirates
+76,Forum 66 Tower 1,350.6,1150,2015,68,4,Shenyang,China
+77,The Pinnacle,350.3,1149,2012,60,6,Guangzhou,China
+78,Xi'an Glory International Financial Center,350.0,1148,2021,75,,Xi'an,China
