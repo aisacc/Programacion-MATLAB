@@ -1,5 +1,8 @@
 # Programación con MATLAB
 
+## Material audiovisual
+Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://youtube.com/playlist?list=PLfqJ3aqsFYAGwYVsPET7LV-CONCRZJt2S).
+
 ## Temas
 **Tema 00.** Introducción al Live Editor
 1. Antes de empezar
@@ -52,3 +55,7 @@
 
 ## Referencias
 - MathWorks. (2022). *Documentation Home*. MathWorks Help Center. https://www.mathworks.com/help/
+
+## Acerca del instructor
+- LinkedIn: https://www.linkedin.com/in/isaccalpala/
+- Instagram: https://www.instagram.com/isacc_alpala/
