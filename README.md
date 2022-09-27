@@ -1,18 +1,17 @@
 # Programación con MATLAB
 
+## Requisitos previos
+- Disponer de una licencia de MATLAB con la versión R2022b o cercana.
+
+## Material audiovisual
+Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://youtube.com/playlist?list=PLfqJ3aqsFYAGwYVsPET7LV-CONCRZJt2S).
+
 ## Temas
 **Tema 00.** Introducción al Live Editor
-1. Antes de empezar
-2. Funcionamiento del Live Editor
 
 **Tema 01.** Conceptos generales
-1. Variables y palabras reservadas
-2. Comentarios, funciones generales y despliegue de información
-3. Recomendaciones y tips para trabajar con MATLAB
 
 **Tema 02.** Números en MATLAB
-1. Tipos de números en MATLAB
-2. Operaciones ariméticas
 
 **Tema 03.** Valores lógicos en MATLAB
 
@@ -52,3 +51,7 @@
 
 ## Referencias
 - MathWorks. (2022). *Documentation Home*. MathWorks Help Center. https://www.mathworks.com/help/
+
+## Acerca del instructor
+- LinkedIn: https://www.linkedin.com/in/isaccalpala/
+- Instagram: https://www.instagram.com/isacc_alpala/
