@@ -50,6 +50,7 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu�
 **Tema 20.** Representación gráfica
 
 ## Referencias
+- Moore, H. (2013). *MATLAB para ingenieros*. Pearson.
 - MathWorks. (2022). *Documentation Home*. MathWorks Help Center. https://www.mathworks.com/help/
 
 ## Acerca del instructor
