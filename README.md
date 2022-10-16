@@ -54,7 +54,7 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu�
 - Gilat, A. (2006, 30 marzo). *Matlab: Una introducción con ejemplos prácticos*. Reverté.
 - MathWorks. (2022). *Documentation - MATLAB & Simulink*. https://www.mathworks.com/help/index.html
 - Moore, H. (2007, 1 enero). *MATLAB para ingenieros* (1ra ed.). Pearson Educación.
-- Ph D, A. S. (2022, 6 septiembre). *MATLAB: A Practical Introduction to Programming and Problem Solving* (6th ed.). Butterworth-Heinemann.
+- Stormy, A. (2022, 6 septiembre). *MATLAB: A Practical Introduction to Programming and Problem Solving* (6th ed.). Butterworth-Heinemann.
 
 ## Acerca del instructor
 - LinkedIn: https://www.linkedin.com/in/isaccalpala/
