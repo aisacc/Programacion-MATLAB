@@ -50,8 +50,11 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu�
 **Tema 20.** Representación gráfica
 
 ## Referencias
-- Moore, H. (2013). *MATLAB para ingenieros*. Pearson.
-- MathWorks. (2022). *Documentation Home*. MathWorks Help Center. https://www.mathworks.com/help/
+- Eshkabilov, S. (2019, 29 noviembre). *Beginning MATLAB and Simulink: From Novice to Professional*. Apress.
+- Gilat, A. (2006, 30 marzo). *Matlab: Una introducción con ejemplos prácticos*. Reverté.
+- MathWorks. (2022). *Documentation - MATLAB & Simulink*. https://www.mathworks.com/help/index.html
+- Moore, H. (2007, 1 enero). *MATLAB para ingenieros* (1ra ed.). Pearson Educación.
+- Ph D, A. S. (2022, 6 septiembre). *MATLAB: A Practical Introduction to Programming and Problem Solving* (6th ed.). Butterworth-Heinemann.
 
 ## Acerca del instructor
 - LinkedIn: https://www.linkedin.com/in/isaccalpala/
