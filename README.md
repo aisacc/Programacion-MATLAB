@@ -13,15 +13,15 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu�
 
 **Tema 02.** Números en MATLAB
 
-**Tema 03.** Valores lógicos en MATLAB
+**Tema 03.** Estructuras de datos: Matrices
 
 **Tema 04.** Caracteres y cadenas en MATLAB
 
-**Tema 05.** Despliegue de información
+**Tema 05.** Valores lógicos
 
-**Tema 06.** Ayuda y documentación de MATLAB
+**Tema 06.** Despliegue de información
 
-**Tema 07.** Estructuras de datos - Matrices
+**Tema 07.** Ayuda y documentación de MATLAB
 
 **Tema 08.** Funciones internas de MATLAB
 
@@ -35,7 +35,7 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu�
 
 **Tema 13.** Importación y exportación de datos
 
-**Tema 14.** Depuración
+**Tema 14.** Depuración y detección de errores
 
 **Tema 15.** Estructuras de selección
 
