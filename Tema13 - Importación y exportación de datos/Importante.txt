@@ -15,6 +15,10 @@
 -- Copia del csv original.
 ** Tema13_Auxiliar_INEC-Matrimonios2020: https://datosabiertos.gob.ec/dataset/registro-matrimonios-divorcios-2020/resource/6f669bb1-bab7-444b-8c64-009ba612ed9f
 
+-- Copia del csv original.
+** Tema13_Auxiliar_SampleSuperstore: https://www.kaggle.com/datasets/roopacalistus/superstore
+
+
 **** Fuentes:
 
 - Kaggle: https://www.kaggle.com/
