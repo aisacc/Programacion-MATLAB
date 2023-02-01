@@ -58,3 +58,9 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu√
 ## Acerca del instructor
 - LinkedIn: https://www.linkedin.com/in/isaccalpala/
 - Instagram: https://www.instagram.com/isacc_alpala/
+
+## Acerca del proyecto
+- Facebook: https://www.facebook.com/ingenecia
+- Instagram: https://www.instagram.com/ingenecia
+- LinkedIn: https://www.linkedin.com/company/ingenecia
+- Sitio web: https://www.ingenecia.com/
