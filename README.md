@@ -63,4 +63,5 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu√
 - Facebook: https://www.facebook.com/ingenecia
 - Instagram: https://www.instagram.com/ingenecia
 - LinkedIn: https://www.linkedin.com/company/ingenecia
+- YouTube: https://www.youtube.com/@ingenecia
 - Sitio web: https://www.ingenecia.com/
