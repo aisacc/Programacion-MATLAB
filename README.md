@@ -1,10 +1,15 @@
 # Programación con MATLAB
 
 ## Requisitos previos
-- Disponer de una licencia de MATLAB con la versión R2022b o cercana.
+- Disponer de una licencia de MATLAB con la versión R2023a o cercana.
 
 ## Material audiovisual
-Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://youtube.com/playlist?list=PLfqJ3aqsFYAGwYVsPET7LV-CONCRZJt2S).
+Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias).
+
+## Comunidad Ingenecia
+Este curso cuenta con una comunidad de Discord en donde puedes interactuar con otros estudiantes y participar de eventos, además de muchas más cosas de tu interés.
+- Invitación a la comunidad: [da clic aquí para acceder a la comunidad](https://discord.gg/V6MedeXDkA).
+- Cómo navegar en la comunidad: [da clic aquí ver un vídeo de cómo navegar en la comunidad](https://youtu.be/ZYpAUpxArV0).
 
 ## Temas
 **Tema 00.** Introducción al Live Editor
@@ -64,4 +69,3 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu�
 - Instagram: https://www.instagram.com/ingenecia
 - LinkedIn: https://www.linkedin.com/company/ingenecia
 - YouTube: https://www.youtube.com/@ingenecia
-- Sitio web: https://www.ingenecia.com/
