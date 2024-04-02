@@ -57,15 +57,14 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 ## Referencias
 - Attaway, S. (2022, 6 septiembre). *MATLAB: A Practical Introduction to Programming and Problem Solving* (6th ed.). Butterworth-Heinemann.
 - Gilat, A. (2006, 30 marzo). *Matlab: Una introducción con ejemplos prácticos*. Reverté.
-- MathWorks. (2022). *Documentation - MATLAB & Simulink*. https://www.mathworks.com/help/index.html
+- MathWorks. (2023). *Documentation - MATLAB & Simulink*. https://www.mathworks.com/help/index.html
 - Moore, H. (2007, 1 enero). *MATLAB para ingenieros* (1ra ed.). Pearson Educación.
 
 ## Acerca del instructor
-- LinkedIn: https://www.linkedin.com/in/isaccalpala/
-- Instagram: https://www.instagram.com/isacc_alpala/
+- LinkedIn: [...]
+- Instagram: [...]
 
 ## Acerca del proyecto
-- Facebook: https://www.facebook.com/ingenecia
-- Instagram: https://www.instagram.com/ingenecia
-- LinkedIn: https://www.linkedin.com/company/ingenecia
-- YouTube: https://www.youtube.com/@ingenecia
+- Facebook: [...]
+- Instagram: [...]
+- YouTube: [...]
