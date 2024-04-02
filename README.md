@@ -64,7 +64,7 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 - LinkedIn: [...]
 - Instagram: [...]
 
-## Acerca del proyecto
+## Acerca de la empresa
 - Facebook: [...]
 - Instagram: [...]
 - YouTube: [...]
