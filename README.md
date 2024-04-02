@@ -9,7 +9,7 @@ Para acceder al material audiovisual desarrollado para este curso haz [clic aqu�
 ## Comunidad de Technica
 Este curso cuenta con una comunidad de Discord en donde puedes interactuar con otros estudiantes y participar de eventos, además de muchas más cosas de tu interés.
 - Invitación a la comunidad: [da clic aquí para acceder a la comunidad](https://discord.gg/V6MedeXDkA).
-- Cómo navegar en la comunidad: [da clic aquí ver un vídeo de cómo navegar en la comunidad](https://youtu.be/ZYpAUpxArV0).
+- Cómo navegar en la comunidad: [da clic aquí ver un vídeo de cómo navegar en la comunidad](https://youtu.be/ZeO775TfoYk).
 
 ## Temas
 **Tema 00.** Introducción al Live Editor
