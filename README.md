@@ -1,4 +1,4 @@
-# Programación con MATLAB
+# MATLAB para Ingenierías y Ciencias
 
 ## Requisitos previos
 - Disponer de una licencia de MATLAB con la versión R2023a o cercana.
