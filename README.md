@@ -1,4 +1,4 @@
-# Programación con MATLAB
+# MATLAB para Ingenierías y Ciencias
 
 ## Requisitos previos
 - Disponer de una licencia de MATLAB con la versión R2023a o cercana.
@@ -6,10 +6,10 @@
 ## Material audiovisual
 Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias).
 
-## Comunidad Ingenecia
+## Comunidad de Technica
 Este curso cuenta con una comunidad de Discord en donde puedes interactuar con otros estudiantes y participar de eventos, además de muchas más cosas de tu interés.
 - Invitación a la comunidad: [da clic aquí para acceder a la comunidad](https://discord.gg/V6MedeXDkA).
-- Cómo navegar en la comunidad: [da clic aquí ver un vídeo de cómo navegar en la comunidad](https://youtu.be/ZYpAUpxArV0).
+- Cómo navegar en la comunidad: [da clic aquí ver un vídeo de cómo navegar en la comunidad](https://youtu.be/ZeO775TfoYk).
 
 ## Temas
 **Tema 00.** Introducción al Live Editor
@@ -57,15 +57,14 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 ## Referencias
 - Attaway, S. (2022, 6 septiembre). *MATLAB: A Practical Introduction to Programming and Problem Solving* (6th ed.). Butterworth-Heinemann.
 - Gilat, A. (2006, 30 marzo). *Matlab: Una introducción con ejemplos prácticos*. Reverté.
-- MathWorks. (2022). *Documentation - MATLAB & Simulink*. https://www.mathworks.com/help/index.html
+- MathWorks. (2023). *Documentation - MATLAB & Simulink*. https://www.mathworks.com/help/index.html
 - Moore, H. (2007, 1 enero). *MATLAB para ingenieros* (1ra ed.). Pearson Educación.
 
 ## Acerca del instructor
-- LinkedIn: https://www.linkedin.com/in/isaccalpala/
-- Instagram: https://www.instagram.com/isacc_alpala/
+- LinkedIn: [...]
+- Instagram: [...]
 
-## Acerca del proyecto
-- Facebook: https://www.facebook.com/ingenecia
-- Instagram: https://www.instagram.com/ingenecia
-- LinkedIn: https://www.linkedin.com/company/ingenecia
-- YouTube: https://www.youtube.com/@ingenecia
+## Acerca de la empresa
+- Facebook: [...]
+- Instagram: [...]
+- YouTube: [...]
