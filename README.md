@@ -4,7 +4,7 @@
 - Disponer de una licencia de MATLAB con la versión R2023a o cercana.
 
 ## Material audiovisual
-Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias).
+Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias/?referralCode=085356796C9ADA485B92).
 
 ## Comunidad de Technica
 Este curso cuenta con una comunidad de Discord en donde puedes interactuar con otros estudiantes y participar de eventos, además de muchas más cosas de tu interés.
