@@ -62,11 +62,7 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 - MathWorks. (2023). *Documentation - MATLAB & Simulink*. https://www.mathworks.com/help/index.html
 - Moore, H. (2007, 1 enero). *MATLAB para ingenieros* (1ra ed.). Pearson Educación.
 
-## Acerca del instructor
-- LinkedIn: [...]
-- Instagram: [...]
-
-## Acerca de la empresa
-- Facebook: [...]
-- Instagram: [...]
-- YouTube: [...]
+## Social media
+- Instagram: [Aisacc](https://www.instagram.com/aisacc___/)
+- YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
+- LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
