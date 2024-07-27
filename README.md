@@ -3,7 +3,7 @@
 # [MATLAB para Ingenierías](https://youtu.be/DXulUfpX10s)
 
 ## Requisitos previos
-- Disponer de una licencia de MATLAB con la versión R2023a o cercana.
+- Ninguno. Se explica todo desde cero.
 
 ## Material audiovisual
 Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias/?referralCode=085356796C9ADA485B92).
