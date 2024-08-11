@@ -64,5 +64,5 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 
 ## Social media
 - Instagram: [Aisacc](https://www.instagram.com/aisacc___/)
-- YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
 - LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
+- YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
