@@ -63,6 +63,5 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 - Moore, H. (2007, 1 enero). *MATLAB para ingenieros* (1ra ed.). Pearson Educación.
 
 ## Social media
-- Instagram: [Aisacc](https://www.instagram.com/aisacc___/)
+- Instagram: [Aisacc](https://www.instagram.com/aisacc.me/)
 - LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
-- YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
